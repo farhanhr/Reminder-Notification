@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="reminder_note">Reminder note</string>
+    <string name="_20_00">20:00</string>
+</resources>
